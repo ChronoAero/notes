@@ -1,11 +1,14 @@
 # Summary
 
-# Intro
+# Index
 
 - [COMP3711: Design and Analysis of Algorithms](./index.md)
 
-# Divide and Conquer
+# Self Study
 
-- [Binary Search](./DnC/binarySearch.md)
-- [Merge Sort](./DnC/mergeSort.md)
-- [Analysis of Recurrence](./DnC/reccurence.md)
+- [Divide and Conquer](./self_study/dnc.md)
+- [Sorting Algorithms](./self_study/sort.md)
+
+# Lecture
+
+# Review Notes
